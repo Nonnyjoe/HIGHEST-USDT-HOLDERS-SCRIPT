@@ -1,0 +1,26 @@
+{
+  "name": "solidity-project-week-day-5",
+  "version": "1.0.0",
+  "description": "A Sample Script that returns the address with the highest USDT balance in the Ethereum Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/nonnyjoe.git"
+  },
+  "author": "Idogwu Chinonso E.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/www.github.com/nonnyjoe/issues"
+  },
+  "homepage": "https://github.com/www.github.com/nonnyjoe#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "web3": "^1.8.2"
+  }
+}

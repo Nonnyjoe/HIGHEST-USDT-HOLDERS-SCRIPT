@@ -1,0 +1,10 @@
+{
+  "provider": "https://eth-mainnet.g.alchemy.com/v2/kNgqkSwSMIQGUQ_wRhjXrWuaB4WoBfGe",
+  "contractAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "fromBlock": "16704000",
+  "toBlock": "latest",
+  "blocksPerBatch": 2500,
+  "delay": "100",
+  "format": "both",
+  "checkIfContract": "yes"
+}
